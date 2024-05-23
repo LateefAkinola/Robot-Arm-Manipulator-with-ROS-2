@@ -5,5 +5,6 @@
     <!-- <xacro:include filename="$(find robotarmmanip_description)/urdf/robotarmmanip_gazebo.xacro"/>
     <xacro:include filename="$(find robotarmmanip_description)/urdf/robotarmmanip_ros2_control.xacro"/> -->
     <xacro:include filename="$(find robotarmmanip_description)/urdf/robotarmmanip.urdf.xacro" />
+    <xacro:include filename="rgb_camera.urdf.xacro"/>
     
 </robot>
