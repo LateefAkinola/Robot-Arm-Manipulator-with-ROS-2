@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lateef/turtlesim_cta_ws/install/turtlesim_cta_interfaces/include/**",
+        "/home/lateef/ros2_ws/install/my_robot_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/lateef/robotics/robotarmmanipulator_ws/src/robotarmmanip_controller/include/**",
+        "/home/lateef/robotics/robotarmmanipulator_ws/src/robotarmmanip_description/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
